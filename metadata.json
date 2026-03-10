@@ -1,0 +1,5 @@
+{
+  "name": "Header Extractor",
+  "description": "Extract the title header from images and mask the rest with black.",
+  "requestFramePermissions": []
+}
